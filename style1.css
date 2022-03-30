@@ -1,0 +1,20 @@
+.bg-img{
+    padding:200em;
+    background-repeat:no-repeat;
+    background-image:url("IMG2.jpg");
+    outline:6px solid black;
+    background-size:100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.wp-img{
+    background-position: center;
+    padding: 50em;
+    background-size:50%;
+}
+
+.wp-img{
+    background-image:url("IMG.png");
+    background-position:center;
+}
